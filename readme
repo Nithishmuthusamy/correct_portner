@@ -1,0 +1,20 @@
+Before we get into the program,I have to say one Indian culture,that man have full right to marry either his father's sister's daughter or his mother's brother's daughter
+and the woman have the full rights to marry either her father's sister's son or mother's brother's son.
+Yes, this program is to tell his or her rightfull partner.We are going to get name,gender,father's name,mother's name.By using this data we are going to tell rightfull
+partner of the person.I have developed a code for only unique name but that doesnot matter we can rectify that by getting extra data like id_number
+
+
+Input:
+ram,male,ranga,seetha
+agil,male,ram,swatha
+riya,female,ranga,seetha
+trisha,female,bharath,riya
+
+person:agil
+
+Output:
+trisha
+
+Explanation
+Here trisha is only has the rights because
+she was his father's sister's daughter. 
