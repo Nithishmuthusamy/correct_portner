@@ -3,7 +3,8 @@ and the woman have the full rights to marry either her father's sister's son or 
 Yes, this program is to tell his or her rightfull partner.We are going to get name,gender,father's name,mother's name.By using this data we are going to tell rightfull
 partner of the person.I have developed a code for only unique name but that doesnot matter we can rectify that by getting extra data like id_number
 
-
+Input format:
+name,gender,father_name,mother_name
 Input:
 ram,male,ranga,seetha
 agil,male,ram,swatha
